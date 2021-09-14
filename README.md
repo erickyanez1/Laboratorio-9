@@ -54,10 +54,11 @@
   
 </div>
 
-
 ###### 4.1.2 Transforme a su forma rectangular:
 
 <div align="center">
+  
+![](https://github.com/erickyanez1/Laboratorio-9/blob/main/IMG/Procedimiento_P2.jpg)
   
 </div>
 
