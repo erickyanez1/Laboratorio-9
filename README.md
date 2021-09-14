@@ -109,7 +109,7 @@
 Se concluye que:
 
 - Al realizar las trasformaciones desde sus formas rectangular y polar se puede decir que son formas de números complejos que se utilizan para representar cantidades fasoriales, ya que una cantidad fasorial contiene tanto magnitud como posición angular.
-- La suma y resta de números complejos se puede realizar de forma analítica o de forma gráfica. La suma y resta analítica se ilustra más fácil en forma rectangular, mientras que la suma y resta gráfica se ilustra mejor en forma polar
+- La suma y resta de números complejos se puede realizar de forma analítica o de forma gráfica. La suma y resta analítica se ilustra más fácil en forma rectangular, mientras que la suma y resta gráfica se ilustra mejor en forma polar.
 - riable.
 
 # **8. BIBLIOGRAFÍA**
