@@ -30,7 +30,8 @@
 
 <div align="center">
   
-
+![](https://github.com/erickyanez1/Laboratorio-9/blob/main/IMG/teoria_1.jpg)
+![](https://github.com/erickyanez1/Laboratorio-9/blob/main/IMG/teoria_2.jpg)
   
 </div>
   
@@ -38,7 +39,7 @@
 
 <div align="center">
   
-
+![](https://github.com/erickyanez1/Laboratorio-9/blob/main/IMG/material.jpg)
   
 </div>
 
@@ -75,37 +76,9 @@
 #  5.RESPUESTA A INTERROGANTES Y CÁLCULO DEL ERROR
 
 
-###### 5.1. ¿
-
-
-
-###### 5.2. ¿
-
-
-
-###### 5.3. ¿Cuá
-
-
-
-###### 5.4. ¿En
-
-
-###### 5.5. 
-
-
-
-
-
-###### 5.6. Det
-
-
-
-
-###### 5.7. Co
-
-
-
-###### 5.8. C
+![](https://github.com/erickyanez1/Laboratorio-9/blob/main/IMG/comparaci%C3%B3n_1.jpg)
+![](https://github.com/erickyanez1/Laboratorio-9/blob/main/IMG/comparaci%C3%B3n_2.jpg)
+![](https://github.com/erickyanez1/Laboratorio-9/blob/main/IMG/comparaci%C3%B3n_3.jpg)
 
 
 
@@ -119,9 +92,13 @@ Se concluye que:
 
 - Al realizar las trasformaciones desde sus formas rectangular y polar se puede decir que son formas de números complejos que se utilizan para representar cantidades fasoriales, ya que una cantidad fasorial contiene tanto magnitud como posición angular.
 - La suma y resta de números complejos se puede realizar de forma analítica o de forma gráfica. La suma y resta analítica se ilustra más fácil en forma rectangular, mientras que la suma y resta gráfica se ilustra mejor en forma polar.
-- riable.
+- El fasor es un número complejo que representa la magnitud y la fase de una sinusoide, es una transformación del dominio del tiempo al dominio de la frecuencia, que contiene información sobre la magnitud y la fase.
 
 # **8. BIBLIOGRAFÍA**
+
+Representación fasorial - FisicaPractica.Com. (2021). Retrieved 14 September 2021, from https://www.fisicapractica.com/fasores.php
+
+Alexander, Charles K., Fundamentos de circuitos eléctricos. McGraw-Hill, 2006.
 
 
 
