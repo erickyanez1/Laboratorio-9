@@ -23,6 +23,7 @@
    
   - Utilizar los procesos de transformación de números complejos a su forma polar y viceversa para los ejercicios que trabajen con las dos formas en simultáneo. 
   - Comprobar los resultados obtenidos en los cálculos con los que resultan en la calculadora comprobando así que son iguales.
+  - Realizar operaciones aritméticas con números complejos, tanto en su forma polar como rectangular.
   - Explicar como realizar la conversión de números complejos dada su forma rectangular.                                                  
   
 # **2. MARCO TEÓRICO**
