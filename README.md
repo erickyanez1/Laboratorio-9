@@ -50,7 +50,7 @@
 
 <div align="center">
 
-
+![](https://github.com/erickyanez1/Laboratorio-9/blob/main/IMG/Procedimiento_P1.jpg)
   
 </div>
 
