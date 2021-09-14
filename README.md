@@ -46,7 +46,7 @@
 
 ## **4.1 PROCEDIMIENTO**
 
-###### 4.1.1  Ajuste el generador de funciones, para que proporcione una señal de 20 Vpp a una frecuencia de 2.5 Khz.
+###### 4.1.1  Transforme a su forma polar:
 
 <div align="center">
 
@@ -55,7 +55,7 @@
 </div>
 
 
-###### 4.1.2 Conecte  el osciloscopio al resistor de carga RL. Observe la señal que aparece en el osciloscopio.
+###### 4.1.2 Transforme a su forma rectangular:
 
 <div align="center">
   
