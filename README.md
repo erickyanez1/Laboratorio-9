@@ -17,13 +17,13 @@
 
 **OBJETIVO GENERAL**
   
-  - d. 
+  - Analizar el concepto de fasor tanto en de forma polar como rectangular para la transformación con números complejos de forma teórica y usando una calculadora científica con cantidades fasoriales para el análisis de circuitos en corriente continua. 
  
  **OBJETIVOS ESPECÍFICOS**
    
-  - da. 
-  - Vehz                                                                                                               
-  - Des.                                                  
+  - Utilizar los procesos de transformación de números complejos a su forma polar y viceversa para los ejercicios que trabajen con las dos formas en simultáneo. 
+  - Comprobar los resultados obtenidos en los cálculos con los que resultan en la calculadora comprobando así que son iguales.
+  - Explicar como realizar la conversión de números complejos dada su forma rectangular.                                                  
   
 # **2. MARCO TEÓRICO**
 
@@ -107,7 +107,7 @@
 
 Se concluye que:
 
-- pasarlo.
+- Al realizar las trasformaciones desde sus formas rectangular y polar se puede decir que son formas de números complejos que se utilizan para representar cantidades fasoriales, ya que una cantidad fasorial contiene tanto magnitud como posición angular.
 - da.
 - riable.
 
