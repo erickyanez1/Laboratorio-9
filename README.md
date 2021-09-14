@@ -60,6 +60,9 @@
 <div align="center">
   
 
+###### 4.1.3 Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su forma rectangular como en su forma polar.
+
+<div align="center">
   
 </div>
 
